@@ -8,5 +8,5 @@ allprojects {
 
 dependencies {
 	//compile 'com.github.NeutrinosPlatform:scanlibrary:master-SNAPSHOT'
-	compile 'com.github.ADERdev:ScanDocument:master-SNAPSHOT'
+	compile 'com.github.ADERdev:ScanDocumentLibrary:master-SNAPSHOT'
 }
