@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
-        id="cordova-plugin-document-scanner"
+        id="ScanDocumentPlugin"
         version="1.1.2">
 
   <name>Scan</name>
