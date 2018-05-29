@@ -1,12 +1,12 @@
 {
-  "name": "cordova-plugin-document-scanner",
-  "version": "1.1.1",
+  "name": "ScanDocumentPlugin",
+  "version": "1.1.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NeutrinosPlatform/cordova-plugin-document-scanner"
+    "url": "https://github.com/ADERdev/ScanDocumentPlugin"
   },
   "cordova": {
-    "id": "cordova-plugin-document-scanner",
+    "id": "ScanDocumentPlugin",
     "platforms": [
       "android",
       "ios"
@@ -27,7 +27,7 @@
       "cordova-android": ">=6.3.0",
       "cordova-ios": ">=4.5.4"}
   },
-  "author": "jatahworx",
+  "author": "AderDEV",
   "license": "ISC",
   "description": "cordova plugin for document scanner"
 }
